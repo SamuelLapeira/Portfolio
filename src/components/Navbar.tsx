@@ -6,7 +6,7 @@ const Navbar = () => {
           <a href="#">Samuel Lapeira</a>
         </h2>
 
-        <nav className="hidden sm:block">
+        <nav className="hidden sm:block mb-3">
           <ul className="flex gap-7 text-xs font-medium text-[#86868b]">
             {["about", "skills", "experience", "projects", "contact"].map((item) => (
               <li key={item}>

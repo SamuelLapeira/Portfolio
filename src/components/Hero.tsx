@@ -4,7 +4,7 @@ import fotoPerfil from "../assets/foto.jpg";
 
 const Hero = () => {
   return (
-    <section className="min-h-[85vh] flex flex-col items-center justify-center text-center px-6">
+    <section className="pt-32 min-h-[85vh] flex flex-col items-center justify-center text-center px-6">
       <motion.div
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
