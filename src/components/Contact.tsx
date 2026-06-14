@@ -17,7 +17,7 @@ const Contact = () => {
         {[
           { icon: <FaEnvelope />, href: "mailto:samuellapeira333@gmail.com" },
           { icon: <FaGithub />, href: "https://github.com/SamuelLapeira" },
-          { icon: <FaLinkedin />, href: "#" },
+          { icon: <FaLinkedin />, href: "https://www.linkedin.com/in/samuel-lapeira-pérez" },
         ].map((platform, index) => (
           <a
             key={index}
