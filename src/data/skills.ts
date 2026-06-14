@@ -14,7 +14,8 @@ export const skills = {
     "Laravel",
     "PHP",
     "Java",
-    "Python"
+    "Express.js",
+    "RESTful APIs"
   ],
 
   database: [
@@ -27,6 +28,8 @@ export const skills = {
     "Git",
     "GitHub",
     "Postman",
-    "Netlify"
+    "Docker",
+    "AWS",
+    "Linux"
   ]
 };

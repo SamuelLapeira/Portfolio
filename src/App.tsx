@@ -4,11 +4,13 @@ import Home from "./pages/Home";
 
 function App() {
   return (
-    <>
+    <div className="min-h-screen bg-[#f5f5f7] text-[#1d1d1f] antialiased">
       <Navbar />
-      <Home />
+      <main className="w-full">
+        <Home />
+      </main>
       <Footer />
-    </>
+    </div>
   );
 }
 

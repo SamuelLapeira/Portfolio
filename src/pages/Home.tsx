@@ -7,14 +7,16 @@ import Contact from "../components/Contact";
 
 const Home = () => {
   return (
-    <>
+    <div className="space-y-32 md:space-y-48 pb-32">
       <Hero />
-      <About />
-      <Skills />
-      <Experience />
-      <Projects />
-      <Contact />
-    </>
+      <div className="max-w-5xl mx-auto px-6 sm:px-8 space-y-32 md:space-y-48">
+        <About />
+        <Skills />
+        <Experience />
+        <Projects />
+        <Contact />
+      </div>
+    </div>
   );
 };
 

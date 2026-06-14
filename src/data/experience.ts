@@ -17,10 +17,11 @@ export const experience = [
     period: "Apr 2025 - Jun 2025",
     description: [
       "Angular frontend development",
-      "Laravel REST API",
+      "API REST",
       "CRUD modules",
       "MySQL integration",
-      "Customer and order management"
+      "Customer and order management",
+      "Exports in CSV and PDF formats"
     ]
   }
 ];

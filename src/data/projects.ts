@@ -16,10 +16,14 @@ export const projects = [
     ],
 
     technologies: [
-      "React",
+      "Laravel",
+      "php",
+      "MySql",
+      "Tailwind CSS",
+      "Angular",
       "TypeScript",
-      "Node.js",
-      "PostgreSQL"
+      "JWT",
+      "AWS EC2"
     ],
 
     github:
